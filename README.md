@@ -9,7 +9,7 @@ The following specs were used to create the original solution.
 - 1x NVIDIA 1080 
 
 
-## code structure
+## Code Structure
 ```
  +- data
  |  +- config.py: the setting of backbone of model and the path of dataset
