@@ -68,7 +68,7 @@ $ python3 predict.py --config=config.yaml
 ```
 
 ### Make Submission
-You can change the path of testing .json file in config.yml and run the following command to predict the result of segmentation. <br>
+You can change the path of testing .json file in config.yml and run the following command to make the submission file. <br>
 If you want to calculate mAP, change the option calc_mAP to True in config.yaml.
 ```
 $ python3 make_submission.py --config=config.yaml
