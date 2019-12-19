@@ -28,7 +28,7 @@ The following specs were used to create the original solution.
  |  +- timer.py: using to print training time
  +- train.py: using to train the model
  +- predict.py: using to predict the mask of input images
- +- make_submission.py: using to output .json file to submit
+ +- make_submission.py: using to output .json file for submit
  +- config.yaml: setting for training, predict, and make submission
 ```
 
